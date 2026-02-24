@@ -54,6 +54,9 @@ The system should generate valid Spanish translations such as:
 Non-existent lexical forms should not be produced.
 
 
+<img width="200" height="400" alt="IMG_1262" src="https://github.com/user-attachments/assets/14faad5b-e8c3-4292-85f1-5b7cd8ca69cf" />
+<img width="200" height="400" alt="IMG_1263" src="https://github.com/user-attachments/assets/cb893fc9-12e2-4c65-ab40-e98e58a529cf" />
+
 ------------------------------------------------------------------------------------------------------
 Technical Hypothesis
 
